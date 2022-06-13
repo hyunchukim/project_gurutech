@@ -1,0 +1,11 @@
+[33mcommit 8e8b5cab5af5baba8c9698fd0bb0ff331384101c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31m2022_gurutech/master[m[33m)[m
+Author: hyunchu kim <hyunchu79@gmail.com>
+Date:   Mon Jun 13 11:30:42 2022 +0900
+
+    git push -u origin master
+
+[33mcommit f891ab7001175e47a11a725f7023216a6cb3aa80[m
+Author: hyunchu kim <hyunchu79@gmail.com>
+Date:   Mon Jun 13 11:20:51 2022 +0900
+
+    git commit -m "first commit"
